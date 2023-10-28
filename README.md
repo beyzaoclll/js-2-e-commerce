@@ -1,4 +1,5 @@
-![Uploading ezgif.com-video-to-gif (5).gif…]()
+![ezgif com-video-to-gif (6)](https://github.com/beyzaoclll/js-2-e-commerce/assets/139500362/4826d4c4-5a1c-4672-93f7-24726f12d7ed)
+
 
 <!DOCTYPE html>
 <html lang="en">
